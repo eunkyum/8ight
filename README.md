@@ -1,4 +1,4 @@
-# Job-notice✨
+# 8ight✨
 ## Open API를 활용한 구인/구직 채용공고 웹사이트
 <br>
 
